@@ -157,7 +157,8 @@ So do **not** rely on collected numbers unless you carefully read through all th
 | [Quartz64-A (RK3566)](results/4qJF.txt) | 1890 MHz | 6.2 | Jammy arm64 | 4980 | 1457 | 884590 | 3240 | 6100 | 6.98 |
 | [Radxa Cubie A5E (A527)](results/Kojb.txt) | 1800/1415 MHz | 5.15 | Bookworm arm64 | 8830 | 1517 | 841880 | 2710 | 5570 | 12.32 |
 | [Radxa Cubie A7S (A733)](results/rca7s.txt) | 2000/1800 MHz | 6.6 | Trixie arm64 | 11280 | 2480 | 1141110 | 6900 | 8500 | 16.87 |
-| [Radxa Dragon Q6A (QCS6490)](results/.txt) | 2700/2400/1950 MHz | 6.16 | Noble arm64 | 17400 | 3840 | 1522730 | 8404 | 19660 | 26.31 |
+| [Radxa Dragon Q6A (QCS6490)](results/KBw_.txt) | 2700/2400/1950 MHz | 6.16 | Noble arm64 | 17400 | 3840 | 1522730 | 8404 | 19660 | 26.31 |
+| [Radxa Dragon Q8B (SC8280XP)](results/hwhVPt7v.txt) | 2500/2435 MHz | 7.0 | Resolute arm64 | 33920 | 3670 | 1410820 | 16780 | 39160 | 40.91 |
 | [Radxa Fogwise AirBox (SG2300X)](results/XUSc.txt) | 2300 MHz | 5.4 | Focal arm64 | 11580 | 1712 | 1075090 | 1870 | 9210 | - |
 | [Radxa Orion O6 (CD8180)](results/88LE.txt) | 2600 MHz | 6.1 | Bookworm arm64 | 32690 | 3945 | 1458420 | 16880 | 48030 | 43.01 |
 | [Radxa ROCK 3A (RK3568)](results/40TX.txt) | 2000 MHz | 5.18 | Bullseye arm64 | 5110 | 1450 | 935920 | 3150 | 6250 | 7.58 |

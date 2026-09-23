@@ -156,8 +156,10 @@ Crawling through [sbc-bench results collection](../Results.md) comparing ~100 di
 | [Genio 1200](4Kvg.txt) | 2200 | 1240850 | 564 |
 | [NVIDIA Orin](4ax9.txt) | 2200 | 1242940 | 565 |
 | [Snapdragon 8cx Gen 3](4xwT.txt) | 2420 | 1365680 | 564 |
+| [Snapdragon 8cx Gen 3](hwhVPt7v.txt) | 2435 | 1371530 | 563 |
 | [Qualcomm QCS6490](8WlQ.txt) | 2700 | 1539030 | 570 |
 | Cortex-X1C | | | |
+| [Snapdragon 8cx Gen 3](hwhVPt7v.txt) | 2500 | 1410820 | 564 |
 | [Snapdragon 8cx Gen 3](4xwT.txt) | 2990 | 1686160 | 564 |
 | Qualcomm Falkor V1 | | | |
 | [Snapdragon 835](4fea.txt) | 2360 | 1342240 | 569 |
